@@ -1,0 +1,38 @@
+body {
+  background-color: blanchedalmond;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+  padding-left: 30px;
+  font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+  color: darkred;
+  margin-left: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: darkslateblue;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  margin-left:20px
+}
+
+nav {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
